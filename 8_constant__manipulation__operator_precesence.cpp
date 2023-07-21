@@ -26,7 +26,6 @@ int main(){
     int d=((((a*5)+b)-45)+87);
     cout<<c<<endl;
     cout<<d<<endl;
-
-
+    
     return 0;
 }
